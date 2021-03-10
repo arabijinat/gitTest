@@ -6,8 +6,6 @@ changes
 5th
 6th commit
 7th commit
-<<<<<<< HEAD
 8th commit
-=======
-b2 branch is created
->>>>>>> e27c5ad84bce38afd9aa640d70e57787527a2b74
+
+
